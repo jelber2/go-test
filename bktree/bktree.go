@@ -1,4 +1,4 @@
-package bktree-test
+package bktree
 
 import (
         "fmt"
